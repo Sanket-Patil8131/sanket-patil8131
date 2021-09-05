@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket-patil8131&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-patil8131" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanket-patil8131" alt="sanket-patil8131" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@sanketpatil8131" target="blank"><img src="https://img.shields.io/twitter/follow/@sanketpatil8131?logo=twitter&style=for-the-badge" alt="@sanketpatil8131" /></a> </p>
 
 - 🌱 I’m currently learning **C,C++,Java And C#.net**
